@@ -1,0 +1,80 @@
+.wrapper {
+    height: 80vh;
+    margin: 10vh;
+}
+.layout-col {
+    height: 80vh;
+    width: 23.25%;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.new {
+    float:left; 
+    margin-left: 1%;
+}
+.box {
+height: 19vh;
+margin-bottom: 1.2vh;
+}
+.bg1 {
+    background-color: #DE46DC;
+}
+.bg2 {
+    background-color: #21DC73;
+}
+.bg3 {
+    background-color: #14002F;
+}
+.bg4 {
+    background-color: #520B65;
+}
+.big-box {
+    height: 39.4vh;
+    margin-bottom: 1vh;
+}
+.sub-box {
+    height: 19vh;
+    width: 49.5%;
+}
+.bg5 {
+    background-color: #ABCA7F;
+}
+.bg6 {
+    background-color: #79C189;
+}
+.bg7 {
+    background-color: #F74AD6;
+}
+.bg8 {
+    background-color: #41F1A9;
+}
+.bg9 {
+    background-color: #20247E;
+}
+.bg10 {
+    background-color: #C99775;
+}
+.wrapper1 {
+    height: 31.52vh; 
+    margin: 3.94vh;
+}
+.layout-col1 {
+    height: 39.4vh;
+    width: 23.25%;
+}
+.box1 {
+    height: 8.85vh;
+    margin-bottom: 1.2vh;
+}
+.sub-box1 {
+    height: 8.85vh;
+    width: 49.5%;
+}
+.big-box1 {
+    height: 18.7vh;
+    margin-bottom: 1vh; 
+}
